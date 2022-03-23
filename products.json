@@ -1,0 +1,237 @@
+[
+  {
+    "_id": "61ed4f66da995358b2231c42",
+    "brandName": "tmt",
+    "category": "crop tops",
+    "description": "Spice up your casual style with this chic rust crop top. Tailored in stretchable jersey fabric, it features a criss-cross halter neck.Style Tip: Pair the top up with a high-slit skirt and heels.",
+    "productName": "Sage Green Smocked Tiered Midi Dress",
+    "price": 2800,
+    "quantity": 20,
+    "image": [
+      "https://img.faballey.com/images/Product/DRS04764Z/d3.jpg",
+      "https://img.faballey.com/images/Product/DRS04764Z/d4.jpg",
+      "https://img.faballey.com/images/Product/DRS04764Z/d5.jpg",
+      "https://img.faballey.com/images/Product/DRS04764Z/d6.jpg",
+      "https://img.faballey.com/images/Product/DRS04764Z/d7.jpg",
+      "https://img.faballey.com/images/Product/DRS04764Z/d8.jpg"
+    ],
+    "discount": 700,
+    "sizes": ["XL", "X", "M", "L", "M"],
+    "color": ["yellow", "red"],
+    "gender": "F",
+    "status": false
+  },
+  {
+    "_id": "61ed4f66da995358b2231c45",
+    "brandName": "tmt",
+    "category": "crop tops",
+    "description": "Spice up your casual style with this chic rust crop top. Tailored in stretchable jersey fabric, it features a criss-cross halter neck.Style Tip: Pair the top up with a high-slit skirt and heels.",
+    "productName": "White Animal Print Tiered Midi Dress",
+    "price": 2200,
+    "quantity": 20,
+    "image": [
+      "https://img.faballey.com/images/Product/DRS04195Z/d3.jpg",
+      "https://img.faballey.com/images/Product/DRS04195Z/d4.jpg",
+      "https://img.faballey.com/images/Product/DRS04195Z/d5.jpg",
+      "https://img.faballey.com/images/Product/DRS04195Z/d7.jpg",
+      "https://img.faballey.com/images/Product/DRS04195Z/d6.jpg",
+      "https://img.faballey.com/images/Product/DRS04195Z/d5.jpg"
+    ],
+    "discount": 1100,
+    "sizes": ["XL", "X", "M", "L", "M"],
+    "color": ["yellow", "red", "black", "white"],
+    "gender": "F",
+    "status": false
+  },
+  {
+    "_id": "61ed4f66da995358b2231c44",
+    "brandName": "tmt",
+    "category": "crop tops",
+    "description": "Spice up your casual style with this chic rust crop top. Tailored in stretchable jersey fabric, it features a criss-cross halter neck.Style Tip: Pair the top up with a high-slit skirt and heels.",
+    "productName": "Navy Printed Belted Tiered Midi Dress",
+    "price": 2150,
+    "quantity": 20,
+    "image": [
+      "https://img.faballey.com/images/Product/DRS04377Z/d3.jpg",
+      "https://img.faballey.com/images/Product/DRS04377Z/d4.jpg",
+      "https://img.faballey.com/images/Product/DRS04377Z/d5.jpg",
+      "https://img.faballey.com/images/Product/DRS04377Z/d7.jpg",
+      "https://img.faballey.com/images/Product/DRS04377Z/d8.jpg",
+      "https://img.faballey.com/images/Product/DRS04377Z/d8.jpg"
+    ],
+    "discount": 1075,
+    "sizes": ["XL", "X", "M", "L", "M"],
+    "color": ["yellow", "red", "black"],
+    "gender": "F",
+    "status": false
+  },
+  {
+    "_id": "61ed4f66da995358b2231c40",
+    "brandName": "tmt",
+    "category": "crop tops",
+    "description": "Spice up your casual style with this chic rust crop top. Tailored in stretchable jersey fabric, it features a criss-cross halter neck.Style Tip: Pair the top up with a high-slit skirt and heels.",
+    "productName": "Yellow Floral Pleated Neck Tie Top",
+    "price": 1600,
+    "quantity": 20,
+    "image": [
+      "https://img.faballey.com/images/Product/TOP05713Z/d3.jpg",
+      "https://img.faballey.com/images/Product/TOP05713Z/d4.jpg",
+      "https://img.faballey.com/images/Product/TOP05713Z/d5.jpg",
+      "https://img.faballey.com/images/Product/TOP05713Z/d7.jpg"
+    ],
+    "discount": 800,
+    "sizes": ["XL", "X", "M", "L", "M"],
+    "color": ["yellow"],
+    "gender": "F",
+    "status": false
+  },
+  {
+    "_id": "61ed4f66da995358b2231c41",
+    "brandName": "tmt",
+    "category": "crop tops",
+    "description": "Spice up your casual style with this chic rust crop top. Tailored in stretchable jersey fabric, it features a criss-cross halter neck.Style Tip: Pair the top up with a high-slit skirt and heels.",
+    "productName": "Orange Floral Daisy Strappy Midi Dress with Tan Belt",
+    "price": 2200,
+    "quantity": 20,
+    "image": [
+      "https://img.faballey.com/images/Product/DRS04765Z/d3.jpg",
+      "https://img.faballey.com/images/Product/DRS04765Z/d4.jpg",
+      "https://img.faballey.com/images/Product/DRS04765Z/d5.jpg",
+      "https://img.faballey.com/images/Product/DRS04765Z/d7.jpg",
+      "https://img.faballey.com/images/Product/DRS04765Z/d8.jpg"
+    ],
+    "discount": 900,
+    "sizes": ["XL", "X", "M", "L", "M"],
+    "color": ["yellow", "red"],
+    "gender": "F",
+    "status": false
+  },
+  {
+    "_id": "61ed4f66da995358b2231c47",
+    "brandName": "tmt",
+    "category": "crop tops",
+    "description": "Spice up your casual style with this chic rust crop top. Tailored in stretchable jersey fabric, it features a criss-cross halter neck.Style Tip: Pair the top up with a high-slit skirt and heels.",
+    "productName": "White Ditsy Floral Smocked Back Crop Top",
+    "price": 1600,
+    "quantity": 10,
+    "image": [
+      "https://img.faballey.com/images/Product/TOP05388Z/d3.jpg",
+      "https://img.faballey.com/images/Product/TOP05388Z/d4.jpg",
+      "https://img.faballey.com/images/Product/TOP05388Z/d5.jpg",
+      "https://img.faballey.com/images/Product/TOP05388Z/d7.jpg",
+      "https://img.faballey.com/images/Product/TOP05388Z/d8.jpg"
+    ],
+    "discount": 800,
+    "sizes": ["XL", "X", "M", "L", "M"],
+    "color": ["yellow", "red", "black", "white"],
+    "gender": "F",
+    "status": false
+  },
+  {
+    "_id": "61ed4f66da995358b2231c48",
+    "brandName": "tmt",
+    "category": "crop tops",
+    "description": "Spice up your casual style with this chic rust crop top. Tailored in stretchable jersey fabric, it features a criss-cross halter neck.Style Tip: Pair the top up with a high-slit skirt and heels.",
+    "productName": "Black Embellished Cut Out Halter Neck Top",
+    "price": 1400,
+    "quantity": 12,
+    "image": [
+      "https://img.faballey.com/images/Product/TOP05590Z/d3.jpg",
+      "https://img.faballey.com/images/Product/TOP05590Z/d4.jpg",
+      "https://img.faballey.com/images/Product/TOP05590Z/d5.jpg",
+      "https://img.faballey.com/images/Product/TOP05590Z/d8.jpg"
+    ],
+    "discount": 700,
+    "sizes": ["XL", "X", "M", "L", "M"],
+    "color": ["yellow", "red", "black", "white"],
+    "gender": "F",
+    "status": false
+  },
+  {
+    "_id": "61ed4f66da995358b2231c43",
+    "brandName": "tmt",
+    "category": "crop tops",
+    "description": "Spice up your casual style with this chic rust crop top. Tailored in stretchable jersey fabric, it features a criss-cross halter neck.Style Tip: Pair the top up with a high-slit skirt and heels.",
+    "productName": "Dark Green Printed Belted Tiered Midi Dress",
+    "price": 2500,
+    "quantity": 20,
+    "image": [
+      "https://img.faballey.com/images/Product/DRS04378Z/d3.jpg",
+      "https://img.faballey.com/images/Product/DRS04378Z/d4.jpg",
+      "https://img.faballey.com/images/Product/DRS04378Z/d5.jpg",
+      "https://img.faballey.com/images/Product/DRS04378Z/d6.jpg",
+      "https://img.faballey.com/images/Product/DRS04378Z/d7.jpg",
+      "https://img.faballey.com/images/Product/DRS04378Z/d8.jpg"
+    ],
+    "discount": 1000,
+    "sizes": ["XL", "X", "M", "L", "M"],
+    "color": ["yellow", "red"],
+    "gender": "F",
+    "status": false
+  },
+  {
+    "_id": "61ed4f66da995358b2231c3e",
+    "brandName": "tmt",
+    "category": "crop tops",
+    "description": "Spice up your casual style with this chic rust crop top. Tailored in stretchable jersey fabric, it features a criss-cross halter neck.Style Tip: Pair the top up with a high-slit skirt and heels.",
+    "productName": "Rust Criss Cross Halter Neck Knit Crop Top",
+    "price": 950,
+    "quantity": 20,
+    "image": [
+      "https://img.faballey.com/images/Product/TOP05340Z/d3.jpg",
+      "https://img.faballey.com/images/Product/TOP05340Z/d4.jpg",
+      "https://img.faballey.com/images/Product/TOP05340Z/d5.jpg",
+      "https://img.faballey.com/images/Product/TOP05340Z/d6.jpg",
+      "https://img.faballey.com/images/Product/TOP05340Z/d7.jpg",
+      "https://img.faballey.com/images/Product/TOP05340Z/d8.jpg"
+    ],
+    "discount": 475,
+    "sizes": ["XL", "X", "M", "L", "M"],
+    "color": ["red", "blue"],
+    "gender": "F",
+    "status": false
+  },
+  {
+    "_id": "61ed4f66da995358b2231c46",
+    "brandName": "tmt",
+    "category": "crop tops",
+    "description": "Spice up your casual style with this chic rust crop top. Tailored in stretchable jersey fabric, it features a criss-cross halter neck.Style Tip: Pair the top up with a high-slit skirt and heels.",
+    "productName": "Black Ditsy Floral Bardot Crop Top",
+    "price": 2760,
+    "quantity": 20,
+    "image": [
+      "https://img.faballey.com/images/Product/TOP04667Z/d3.jpg",
+      "https://img.faballey.com/images/Product/TOP04667Z/d4.jpg",
+      "https://img.faballey.com/images/Product/TOP04667Z/d5.jpg",
+      "https://img.faballey.com/images/Product/TOP04667Z/d7.jpg",
+      "https://img.faballey.com/images/Product/TOP04667Z/d8.jpg",
+      "https://img.faballey.com/images/Product/TOP04667Z/d9.jpg"
+    ],
+    "discount": 750,
+    "sizes": ["XL", "X", "M", "L", "M"],
+    "color": ["yellow", "red", "black", "white"],
+    "gender": "F",
+    "status": false
+  },
+  {
+    "_id": "61ed4f66da995358b2231c3f",
+    "brandName": "tmt",
+    "category": "crop tops",
+    "description": "Spice up your casual style with this chic rust crop top. Tailored in stretchable jersey fabric, it features a criss-cross halter neck.Style Tip: Pair the top up with a high-slit skirt and heels.",
+    "productName": "Grey Polka Puff Sleeve Knit Crop Top",
+    "price": 1200,
+    "quantity": 20,
+    "image": [
+      "https://img.faballey.com/images/Product/TOP05314Z/d3.jpg",
+      "https://img.faballey.com/images/Product/TOP05314Z/d4.jpg",
+      "https://img.faballey.com/images/Product/TOP05314Z/d5.jpg",
+      "https://img.faballey.com/images/Product/TOP05314Z/d7.jpg",
+      "https://img.faballey.com/images/Product/TOP05314Z/d8.jpg"
+    ],
+    "discount": 600,
+    "sizes": ["XL", "X", "M", "L", "M"],
+    "color": ["red", "blue"],
+    "gender": "F",
+    "status": false
+  }
+]
